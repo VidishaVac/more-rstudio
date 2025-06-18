@@ -1,6 +1,6 @@
 # My RStudio experiments 
 
-<img src="math.png" alt="Alt Text" width="300" height="200">
+<img src="math.png" alt="Alt Text" width="400" height="300">
 
 ## Welcome
 
