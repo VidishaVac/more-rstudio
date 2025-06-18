@@ -2,6 +2,8 @@
 
 ## Welcome
 
+![alt text]([image-url](https://github.com/VidishaVac/more-rstudio/blob/main/scatter.png))
+
 Welcome to this repo! This space contains additional analytics and experiments with RStudio, occasionally using Copilot and GPT-4o mini. This includes -
 1. Solving Math puzzles in R; see here for the post on [rworks](https://rworks.dev/posts/math-puzzles/)
 2. Data visualization & analytics workflows; see here for the [post](https://rviews.rstudio.com/2017/08/14/end-to-end-visualization-using-ggplot2/)
