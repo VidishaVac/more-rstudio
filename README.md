@@ -2,7 +2,7 @@
 
 ## Welcome
 
-![](math.png | width=100)
+<img src="math.png" alt="Alt Text" width="300" height="200">
 
 Welcome to this repo! This space contains additional analytics and experiments with RStudio, occasionally using Copilot and GPT-4o mini. This includes -
 1. Solving Math puzzles in R; see here for the post on [rworks](https://rworks.dev/posts/math-puzzles/)
