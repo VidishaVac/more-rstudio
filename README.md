@@ -2,7 +2,7 @@
 
 ## Welcome
 
-![alt text](https://github.com/VidishaVac/more-rstudio/blob/main/math.png | width=100)
+![](math.png | width=100)
 
 Welcome to this repo! This space contains additional analytics and experiments with RStudio, occasionally using Copilot and GPT-4o mini. This includes -
 1. Solving Math puzzles in R; see here for the post on [rworks](https://rworks.dev/posts/math-puzzles/)
