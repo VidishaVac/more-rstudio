@@ -1,5 +1,7 @@
 # My RStudio experiments 
 
+<img src="math.png" alt="Alt Text" width="300" height="200">
+
 ## Welcome
 
 Welcome to this repo! This space contains additional analytics and experiments with RStudio, occasionally using Copilot and GPT-4o mini. This includes -
@@ -10,11 +12,5 @@ Welcome to this repo! This space contains additional analytics and experiments w
 
 At the moment, this repo contains only the original Quarto or Markdown files used to create the posts. Additional code chunks will be posted soon. 
 
-See some example visuals below --
-
-
-<img src="math.png" alt="Alt Text" width="300" height="200">
-
-<img src="scatter.png" alt="Alt Text" width="300" height="200">
 
 
